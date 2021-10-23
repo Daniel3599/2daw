@@ -1,3 +1,4 @@
+//Ejercicio
 //Inicialización de las variables
 var numeroFinal=12;
 //Usamos el operador resto para saber si el número es imparpar
